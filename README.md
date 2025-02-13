@@ -14,7 +14,7 @@ MadLib Game is a fun and interactive word-based game where users provide random 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/MadLibGame.git
+   git clone (https://github.com/WajahatAli3218664/MadLibgame.pynb)
    ```
 2. Navigate to the project directory:
    ```bash
